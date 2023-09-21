@@ -40,10 +40,6 @@ Este mini portfólio apresenta uma página web simples com as seguintes seções
 
 Contribuições são bem-vindas! Se você identificar algum problema, quiser adicionar uma nova funcionalidade ou fazer melhorias, sinta-se à vontade para criar um fork deste repositório e enviar um pull request.
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
----
 
 Aproveite a visita ao meu mini portfólio e não hesite em entrar em contato se tiver alguma pergunta ou comentário! 😊
