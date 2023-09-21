@@ -1,7 +1,7 @@
 # Apresenta-o
 # Mini Portfólio - Leonardo
 
-Este é o repositório do meu mini portfólio pessoal, onde compartilho informações sobre mim, minhas habilidades e minhas redes sociais. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript. Você pode acessá-lo [aqui](https://github.com/seu-usuario/nome-do-repositorio).
+Este é o repositório do meu mini portfólio pessoal, onde compartilho informações sobre mim, minhas habilidades e minhas redes sociais. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript. Você pode acessá-lo [aqui]([https://github.com/seu-usuario/nome-do-repositorio](https://leonardojfrenner.github.io/Apresenta-o/)).
 
 ## Visão Geral
 
