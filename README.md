@@ -34,11 +34,7 @@ Este mini portfólio apresenta uma página web simples com as seguintes seções
 - `SFC/imagens/`: Imagens usadas na página.
 - `SFC/js/`: Arquivo JavaScript para interações na página.
 
-## Autor
 
-- **Nome:** [Seu Nome]
-- **LinkedIn:** [Seu Perfil do LinkedIn]
-- **GitHub:** [Seu Perfil do GitHub]
 
 ## Contribuições
 
